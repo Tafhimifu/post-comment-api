@@ -1,0 +1,15 @@
+.comment{
+    color:darkred;
+    background-color:antiquewhite;
+    width:200;
+    margin-left:60px;
+    margin-right:500px; 
+    padding-left:10px;
+}
+.post-detail{
+    background-color:azure;
+}
+    .post{
+        color:brown;
+        background-color: lightsteelblue;
+    }
